@@ -2,6 +2,8 @@
 
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerekSilva9&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=DerekSilva9&theme=dark&date_format=j%20M%5B%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerekSilva9&layout=compact&theme=dark)
+
 
 ## Tecnogias que eu utilizo:
 
