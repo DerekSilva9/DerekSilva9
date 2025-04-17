@@ -1,6 +1,7 @@
 ## Opa, me chamo Derek! Seja bem vindo ao meu perfil.
 
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerekSilva9&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Estatísticas%20do%20GitHub%20de%20Derek)
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerekSilva9&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=DerekSilva9&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 ## Tecnogias que eu utilizo:
 
