@@ -4,7 +4,7 @@
 
 ### 🧠 Sobre mim
 
-Sou desenvolvedor focado em segurança da informação, automações, bots e ferramentas para pentest. Apaixonado por Linux, C, PHP e tudo que envolve hacking.
+Sou desenvolvedor focado em segurança da informação, automações, bots e ferramentas para pentest. Entusiasta de Linux, PHP e tudo que envolve hacking.
 
 ---
 
