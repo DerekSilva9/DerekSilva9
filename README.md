@@ -12,19 +12,9 @@ Sou desenvolvedor focado em segurança da informação, automações, bots e fer
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerekSilva9&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <br/>
   <img height="180em" src="https://streak-stats.demolab.com?user=DerekSilva9&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerekSilva9&layout=compact&theme=dark&langs_count=6" />
 </div>
-
----
-
-### 🚀 Projetos em Destaque
-
-- 🔐 [Stealth Extension](https://github.com/seurepo): Extensão maliciosa (educacional) para navegador, focada em exfiltração de dados.
-- 🤖 [Telegram Video Bot](https://github.com/seurepo): Bot do Telegram que baixa vídeos de URLs e envia automaticamente no chat.
-- 📦 [Sistema de Estoque PHP](https://github.com/seurepo): Gerenciador de estoque feito em PHP procedural com SQLite.
 
 ---
 
