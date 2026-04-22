@@ -11,8 +11,6 @@ Sou desenvolvedor focado em segurança da informação, automações, bots e fer
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DerekSilva9&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=DerekSilva9&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerekSilva9&layout=compact&theme=dark&langs_count=6" />
 </div>
 
