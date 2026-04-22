@@ -26,7 +26,7 @@ Curioso por natureza, estou sempre explorando novas tecnologias, aprimorando té
 
 ### 🧰 Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,php,laravel,mysql,py,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,linux,php,laravel,mysql,py)](https://skillicons.dev)
 
 ---
 
